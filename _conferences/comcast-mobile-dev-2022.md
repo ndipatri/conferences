@@ -1,5 +1,5 @@
 ---
-name: "Comcast Mobile Developer Conference"
+name: "Philly Mobile Developer Conference"
 website: https://www.comcastlabsconnect.com/2022-mobile
 location: Philadelphia, PA, USA
 online: true
